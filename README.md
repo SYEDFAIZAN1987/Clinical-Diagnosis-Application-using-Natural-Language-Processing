@@ -1,4 +1,4 @@
-🩺 Clinical Diagnosis Application & medReport Model
+### 🩺 Clinical Diagnosis Application & medReport Model
 
 Welcome to the Clinical Diagnosis Application, a NLP-powered deep learning solution for automated medical diagnosis based on clinical notes. This project leverages BioBERT, Natural Language Processing, and Hugging Face Transformers to analyze patient reports and predict diseases with high accuracy.
 
