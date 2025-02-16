@@ -16,9 +16,7 @@ medReport is a fine-tuned BioBERT model trained on clinical text data to predict
 ✅ Deployable on Hugging Face Spaces / Local Server
 
 📂 Project Structure
-graphql
-Copy
-Edit
+
 📁 Clinical-Diagnosis-App/
 │── 📂 patient_model/         # Trained BioBERT model files
 │── 📂 results/               # Model training results & logs
@@ -30,20 +28,14 @@ Edit
 │── 📜 clinical_notes.csv     # Sample dataset
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/SYEDFAIZAN1987/Clinical-Diagnosis-Application-using-Natural-Language-Processing.git
 cd Clinical-Diagnosis-Application-using-Natural-Language-Processing
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
-3️⃣ Run the Application
-bash
-Copy
-Edit
+3️⃣ Run the Applicationbash
+
 streamlit run app.py
 The app will launch at http://localhost:8501 🎉
 
