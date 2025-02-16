@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+huggingface_hub
+pandas
+scikit-learn
+nltk
+numpy
+PyPDF2
+matplotlib
+seaborn
+datasets
+
